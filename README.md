@@ -1,27 +1,23 @@
 # CookJoy
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+![alt text](https://media.istockphoto.com/id/1191425335/photo/american-food-concept-grilled-pork-ribs-with-grilled-sauce-with-smoke-spices-and-rosemary.jpg?s=2048x2048&w=is&k=20&c=rRdjwjVSaVjAvlkseTHTXnuJ4SEBRNt5CFCWoVtQZoA=)
 
-## Development server
+## Overview
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+CookJoy is more than just a recipe app – it's your ultimate companion in the kitchen, designed to infuse joy and inspiration into every cooking experience. With CookJoy, you'll discover a world of flavors, techniques, and culinary wonders right at your fingertips.
 
-## Code scaffolding
+## Key Features
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- **Delightful Design**: CookJoy boasts an intuitive interface crafted with care, making recipe discovery and navigation a breeze.
+- **Savor the Experience**: Immerse yourself in the world of cooking with CookJoy's modern Angular 17 frontend, offering smooth performance and captivating visuals.
+- **Reliable Backend Support**: Powered by Express, CookJoy ensures reliable data management and retrieval, so you can focus on what truly matters – creating delicious meals.
+- **Endless Culinary Exploration**: Explore a vast array of recipes from around the globe, thanks to seamless integration with Rapid API. Whether you're craving comfort food or feeling adventurous, CookJoy has you covered.
+- **Unleash Your Creativity**: Customize your cooking journey with raw CSS styling, allowing you to express your unique culinary style and preferences.
 
-## Build
+## Get Cooking with CookJoy
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Download CookJoy today and embark on a journey of culinary delight! Whether you're a seasoned chef or just starting out, CookJoy is here to spark your creativity, tantalize your taste buds, and bring joy to your kitchen.
 
-## Running unit tests
+**Note:** For detailed setup instructions and additional information, please refer to the documentation provided in the repository.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+**Happy Cooking!**
