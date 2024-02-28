@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body {
+  font-family: Poppins;
+  background-color: #000;
+  color: #eee;
+  margin: 0;
+  font-size: 12px;
+}
+
+header {
+  width: 1140px;
+  max-width: 80%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  position: relative;
+  z-index: 100;
+}
+
+.navItems {
+  margin-right: 35px;
+}
+
+.caro {
+  height: 100vh;
+  width: 100vw;
+  margin-top: -50px;
+  overflow: hidden;
+}
+
+.caro .list .item {
+  position: absolute;
+  inset: 0 0 0 0;
+}
+
+.caro .list .item img{
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
